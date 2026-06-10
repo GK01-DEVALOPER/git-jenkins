@@ -8,6 +8,6 @@ public class MultiplyTwoNumbers {
         int product = number1 * number2;
         
         // Output the final result to the console
-        System.out.println("The product is: " + product);
+        System.out.println("your number product is: " + product);
     }
 }
