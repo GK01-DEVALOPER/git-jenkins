@@ -9,5 +9,6 @@ public class MultiplyTwoNumbers {
         
         // Output the final result to the console
         System.out.println("your number product is: " + product);
+        System.out.println("your number product is: " + product);
     }
 }
