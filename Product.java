@@ -1,4 +1,4 @@
-public class MultiplyTwoNumbers {
+public class Product {
     public static void main(String[] args) {
         // Define two integer variables
         int number1 = 5;
